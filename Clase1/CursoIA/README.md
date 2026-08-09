@@ -1,20 +1,19 @@
-Curso de Inteligencia Artificial - Ejercicios Iniciales
+# Curso de Inteligencia Artificial - Actividad en Clase 1
 
-Este directorio contiene los primeros ejercicios prácticos en Python desarrollados durante el curso.
+## Objetivo
+Configurar el entorno de desarrollo completo y realizar un primer script en Python que utilice variables y condicionales.
 
-Archivos en este proyecto
+## Archivos del Proyecto
 
-1. hola_mundo.py
+1. **`analisis_datos.py`**
+   - Script principal de la actividad que cumple con todos los criterios de evaluación.
+   - Define variables de estado (`temperatura = 35`, `ciudad = "Cartago"`).
+   - Utiliza una estructura condicional `if-else` para imprimir si hace calor o frío en la ciudad, evaluando si la temperatura es mayor a 35 grados.
 
-   - Ejemplo clásico para empezar a programar. Muestra cómo utilizar la función `print()` para imprimir un mensaje básico en la consola.
+2. **`hola_mundo.py`**
+   - Archivo inicial de prueba para verificar el correcto funcionamiento de Python en el entorno.
 
-2. variables.py
-
-   - Demuestra cómo declarar y utilizar variables en Python, y cómo el lenguaje identifica los tipos de datos (números, cadenas de texto). También muestra cómo combinar texto y variables en un mismo `print()`.
-
-3. condicionales.py
-   - Explica el uso de la estructura lógica `if` y `else`. Evalúa una condición y, dependiendo de si el resultado es verdadero o falso, ejecuta un bloque de código diferente. Además, evidencia la importancia de la *indentación* en Python para definir bloques de código.
-
-4. analisis_datos.py
-   - Script integrador de la actividad en clase que evalúa la temperatura de una ciudad utilizando variables y condicionales `if-else`.
-
+## Criterios de Evaluación Cumplidos
+- ✔️ Script funcional (`analisis_datos.py`).
+- ✔️ Uso correcto de variables y condicionales `if-else`.
+- ✔️ Commit y push exitoso a GitHub con todos los requerimientos.
