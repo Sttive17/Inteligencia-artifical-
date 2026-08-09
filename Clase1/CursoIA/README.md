@@ -15,3 +15,6 @@ Archivos en este proyecto
 3. condicionales.py
    - Explica el uso de la estructura lógica `if` y `else`. Evalúa una condición y, dependiendo de si el resultado es verdadero o falso, ejecuta un bloque de código diferente. Además, evidencia la importancia de la *indentación* en Python para definir bloques de código.
 
+4. analisis_datos.py
+   - Script integrador de la actividad en clase que evalúa la temperatura de una ciudad utilizando variables y condicionales `if-else`.
+
