@@ -1,0 +1,16 @@
+id_reporte,barrio,tipo_dano,severidad,area_m2,costo_reparacion_cop,prioridad
+1,El Prado,Hueco profundo,8,2.5,450000,Alta
+2,San Jerónimo,Grieta longitudinal,4,1.2,150000,Media
+3,Zaragoza,Hundimiento,9,4.0,800000,Critica
+4,San Nicolás,Hueco profundo,7,2.0,350000,Alta
+5,Álamos,Fisura,3,0.8,80000,Baja
+6,Centro,Bache,6,1.5,250000,Media
+7,Collarejo,Hueco profundo,9,3.2,600000,Critica
+8,La Isleta,Hundimiento,7,2.8,400000,Alta
+9,San Vicente,Bache,5,1.0,180000,Media
+10,El Llano,Hueco profundo,8,2.2,380000,Alta
+11,Guayacanes,Grieta longitudinal,4,1.5,160000,Media
+12,Pinares,Fisura,2,0.5,50000,Baja
+13,Cámbulos,Hundimiento,8,3.5,550000,Alta
+14,Los Álamos,Bache,5,1.2,200000,Media
+15,La Floresta,Hueco profundo,10,4.5,900000,Critica
